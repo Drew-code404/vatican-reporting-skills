@@ -57,7 +57,7 @@ Your job is to decode the document for reporting value.
 
 ### 7. Local angle (CRITICAL)
 - How could this show up in a diocese/parish?
-- What would this look like in Atlanta?
+
 
 ### 8. Story angles
 Provide 3–5 strong story ideas:
